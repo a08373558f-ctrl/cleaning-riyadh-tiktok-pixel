@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 92" role="img" aria-labelledby="title desc">
+  <title id="title">بريق النجوم</title>
+  <desc id="desc">شعار بريق النجوم لخدمات التنظيف</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2568ff"/>
+      <stop offset="0.58" stop-color="#5c5ce8"/>
+      <stop offset="1" stop-color="#18c9a5"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe080"/>
+      <stop offset="1" stop-color="#f6b700"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#173566" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <rect x="8" y="8" width="76" height="76" rx="25" fill="url(#g)"/>
+    <path d="M46 18l5.7 16.3L68 40l-16.3 5.7L46 62l-5.7-16.3L24 40l16.3-5.7L46 18Z" fill="#fff"/>
+    <path d="M67.5 58l2.6 7.4 7.4 2.6-7.4 2.6-2.6 7.4-2.6-7.4-7.4-2.6 7.4-2.6 2.6-7.4Z" fill="url(#gold)"/>
+    <path d="M20 69c13 7 38 8 57-4" fill="none" stroke="#8ff0d8" stroke-width="4" stroke-linecap="round" opacity=".9"/>
+  </g>
+  <text x="102" y="43" direction="rtl" unicode-bidi="bidi-override" font-family="Tahoma, Arial, sans-serif" font-size="29" font-weight="700" fill="#0b2348">بريق النجوم</text>
+  <text x="102" y="68" direction="rtl" unicode-bidi="bidi-override" font-family="Tahoma, Arial, sans-serif" font-size="13" font-weight="700" fill="#2d67db">خدمات تنظيف احترافية</text>
+</svg>
